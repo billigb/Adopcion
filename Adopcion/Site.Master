@@ -89,7 +89,7 @@
             <ul class="nav navbar-nav  navbar-collapse">   <%-- navbar collapse para que se haga para la izquierda brand para texto grande--%>
               <li><a href="Vendedor.aspx" class="text-dark" role="button" style="font-size: 1.4em">INICIO</a></li>
               <li><a href="Nosotros.aspx" class="text-dark" style="font-size: 1.4em">NOSOTROS</a></li>
-              <li><a href="Producto.aspx" class="text-dark" style="font-size: 1.4em">ADOPTA</a></li>
+              <li><a href="Adopta.aspx" class="text-dark" style="font-size: 1.4em">ADOPTA</a></li>
               <li><a href="Categoria.aspx" class="text-dark" style="font-size: 1.4em">ASOCIACIONES</a></li>
               <li><a href="Contactanos.aspx" class="text-dark" style="font-size: 1.4em">CONTACTANOS</a></li>
               <li><a href="Reportes.aspx" class="text-dark" style="font-size: 1.4em">REGISTROS</a></li>
