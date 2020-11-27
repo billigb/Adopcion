@@ -53,7 +53,7 @@
                 </div>
         <h3 class="descripcion text-justify col col-lg-6 col-md-6 col-sm-12">"Somos una organización sin fines de lucro que busca incrementar el número de adopciones en Lima, 
             a través de un espacio virtual que centralice las oportunidades de adopción, 
-    brindando además asesoría integral a los adoptantes y trabajando en coordinación con una red de albergues."
+    brindando además asesoría integral a los adoptantes y trabajando en coordinación con una red de albergues. ra"
         </h3>
             </div>
         </div>
